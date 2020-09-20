@@ -31,3 +31,5 @@
 > 2) Recall, F1
 > 3) ROC (Receiver Operating Characteristics)
 > 4) AUC(Area Under Curve)
+
+## NLP(Natural Language Processing)
