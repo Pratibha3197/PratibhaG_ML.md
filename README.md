@@ -14,8 +14,8 @@
 *LightGBM*
 
 *Clustering*
-> k-mean Clustering (Unsupervised Machine Learning)
-> KNN (Supervised Machine Learning)
+> 1) k-mean Clustering (Unsupervised Machine Learning)
+> 2) KNN (Supervised Machine Learning)
 
 *Dimensionality Reduction*
 > 1) PCA (Principal Component Analysis)
