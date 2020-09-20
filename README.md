@@ -1,9 +1,9 @@
 # Machine Learning
 *Regression*
-> Linear Regression
-> Logisitic Regression
-> Ridge Regression
-> GLM(Generalized Linear Model)
+> 1) Linear Regression
+> 2) Logisitic Regression
+> 3) Ridge Regression
+> 4) GLM(Generalized Linear Model)
 
 *Decision Trees*
 
@@ -27,7 +27,7 @@
 > Support Vector Classifier
 
 *Evaluation Metrics*
-> Precision
-> Recall, F1
-> ROC (Receiver Operating Characteristics)
-> AUC(Area Under Curve)
+> 1) Precision
+> 2) Recall, F1
+> 3) ROC (Receiver Operating Characteristics)
+> 4) AUC(Area Under Curve)
